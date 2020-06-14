@@ -1,0 +1,11 @@
+.page-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
